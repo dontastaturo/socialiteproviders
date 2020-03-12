@@ -9,6 +9,10 @@
         {
             "name": "Ivar Smits",
             "email": "info@ivarsmits.nl"
+        },
+        {
+            "name": "Ralf Siebert",
+            "email": "r.siebert@mmc-agentur.de"
         }
     ],
     "require": {
